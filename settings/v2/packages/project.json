@@ -1,0 +1,10 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 640,
+      "height": 1136,
+      "fitWidth": false,
+      "fitHeight": true
+    }
+  }
+}
